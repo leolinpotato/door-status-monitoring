@@ -70,8 +70,13 @@ pip install -r requirements.txt
 python guess.py --dir "directory of your test videos" --output "name of output json file"
 ```
 
+## Result
+| Public Recall | Public Precision | Total Recall | Total Precision |
+|----------|----------|----------|----------|
+| 100% | 100% | 90% | 85.7% |
+
 ## Member
-B10902024 林宸宇
-B10902060 翁菀羚
-B10902126 陳致翰
+B10902024 林宸宇  
+B10902060 翁菀羚  
+B10902126 陳致翰  
 B10902138 陳德維
