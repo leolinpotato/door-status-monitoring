@@ -1,4 +1,5 @@
 # NTU-CV2024 FINAL
+![](https://github.com/leolinpotato/door-status-tracker/blob/main/demo.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
