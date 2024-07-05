@@ -53,7 +53,7 @@ pip install -r requirements.txt
 git clone https://github.com/leolinpotato/door-status-monitoring
 
 # Navigate to the project directory
-cd NTU-CV-Final
+cd door-status-monitoring
 
 # Create virtual environment
 conda create -n cv_final python=3.12.3
