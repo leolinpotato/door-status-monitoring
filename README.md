@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### Others
 ```shell
 # Clone the repository
-git clone https://github.com/chen-chih-han/NTU-CV-Final
+git clone https://github.com/leolinpotato/door-status-monitoring
 
 # Navigate to the project directory
 cd NTU-CV-Final
